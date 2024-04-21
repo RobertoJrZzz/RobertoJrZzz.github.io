@@ -42,18 +42,18 @@
     }
 
     #button-update{
-        font-size: 40px;
-        margin-top: 5px;
+        font-size: 30px;
+        margin-top: 3px;
     }
 
     #button-coin{
-        font-size: 40px;
-        margin-top: 5px;
+        font-size: 30px;
+        margin-top: 3px;
     }
 
     #button-profit{
-        font-size: 40px;
-        margin-top: 5px;
+        font-size: 30px;
+        margin-top: 3px;
     }
 
     #section-copyright{
@@ -61,7 +61,7 @@
         font-family: sans-serif;
         display: flex;
         justify-content: center;
-        font-size: 9px;
+        font-size: 7px;
         align-items: center;
     }
 }
