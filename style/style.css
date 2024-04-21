@@ -1,0 +1,84 @@
+body{
+    background-color: black;
+    font-family:"Bungee", sans-serif;
+}
+
+
+#header-content{
+    color: white;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.header-text{
+font-size: 21px;
+}
+#header-data{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.sub-header{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.sub-header:hover{
+    color: rgb(49, 212, 163);
+}
+
+#pie{
+    color: white;
+    padding: 8px;
+    font-size: 25px;
+}
+
+#logo{
+    width: 200px;
+
+}
+
+
+
+.main-content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 90px;
+    border-radius: 30px;
+    align-items: center;
+    background-color: rgba(46, 186, 221, 0.356);
+}
+
+.main-title{
+    color: white;
+    font-size: 47px;
+    margin-top: -20px;
+}
+
+.main-update{
+    color: rgb(49, 212, 163);
+    font-size: 20px;
+    margin-top: -20px;
+}
+
+#button-update{
+    color: white;
+    font-size: 50px;
+}
+
+#button-coin{
+    color: white;
+    font-size: 50px;
+}
+
+#button-profit{
+    color: white;
+    font-size: 50px;
+}

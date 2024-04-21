@@ -1,0 +1,57 @@
+@media screen and (max-width: 480px) {
+    body{
+        height: 6px;
+        align-items: center;
+    }
+
+
+    #header-content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .header-text{
+        font-size:11px;
+    }
+
+    .sub-header{
+        font-size: 19px;
+    }
+
+    #pie{
+        font-size: 19px;
+    }
+
+
+
+    .main-content{
+        margin: 20px;
+    }
+
+    .main-title{
+        font-size: 20px;
+    }
+
+    .main-update{
+        font-size: 15px;
+        margin: 8px;
+        line-height: 1.3em;
+        
+    }
+
+    #button-update{
+        font-size: 40px;
+        margin: 10px;
+    }
+
+    #button-coin{
+        font-size: 40px;
+        margin: 10px;
+    }
+
+    #button-profit{
+        font-size: 40px;
+        margin: 10px;
+    }
+}
