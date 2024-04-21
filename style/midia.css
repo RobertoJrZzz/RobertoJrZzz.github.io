@@ -31,7 +31,7 @@
 
     .main-title{
         font-size: 20px;
-        margin: 1px;
+        padding: 10px;
     }
 
     .main-update{
@@ -43,16 +43,17 @@
 
     #button-update{
         font-size: 40px;
-        margin: 20px;
+        margin-top: 10px;
     }
 
     #button-coin{
         font-size: 40px;
-        margin: 20px;
+        margin-top: 10px;
     }
 
     #button-profit{
         font-size: 40px;
-        margin: 20px;
+        margin: 10px;
+        margin-top: 10px;
     }
 }
