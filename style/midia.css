@@ -31,29 +31,29 @@
 
     .main-title{
         font-size: 20px;
-        padding: 10px;
+        padding: 15px;
     }
 
     .main-update{
-        font-size: 15px;
-        margin: 8px;
+        font-size: 14px;
+        margin: 15px;
         line-height: 1.3em;
+        
     }
 
     #button-update{
         font-size: 40px;
-        margin-top: 10px;
+        margin-top: 18px;
     }
 
     #button-coin{
         font-size: 40px;
-        margin-top: 10px;
+        margin-top: 18px;
     }
 
     #button-profit{
         font-size: 40px;
-        margin: 10px;
-        margin-top: 10px;
+        margin-top: 18px;
     }
 
     #section-copyright{
