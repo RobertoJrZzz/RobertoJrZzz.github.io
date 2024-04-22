@@ -1,0 +1,38 @@
+@media screen and (max-width: 480px) {
+    body{
+        height: 7px;
+        align-items: center;
+    }
+
+
+    #header-content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .header-text{
+        font-size:10px;
+    }
+
+    .sub-header{
+        font-size: 19px;
+    }
+
+    #home{
+        font-size: 19px;
+    }
+
+    .table-content, th, td, caption{
+        font-size: 10px;
+    }
+
+    #section-copyright{
+        color: white;
+        font-family: sans-serif;
+        display: flex;
+        justify-content:center;
+        font-size: 7px;
+        align-items: center;
+    }
+}
