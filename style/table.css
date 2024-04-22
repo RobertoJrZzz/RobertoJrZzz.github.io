@@ -68,3 +68,15 @@ th{
 td{
     padding: 8px;
 }
+
+.completed{
+    background-color: green;
+}
+
+.canceled{
+    background-color: red;
+}
+
+.process{
+    background-color: rgb(165, 165, 20);
+}
