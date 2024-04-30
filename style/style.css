@@ -39,6 +39,12 @@ font-size: 21px;
     font-size: 25px;
 }
 
+#profit{
+    color: white;
+    padding: 8px;
+    font-size: 25px;
+}
+
 #logo{
     width: 200px;
 
@@ -92,3 +98,6 @@ font-size: 21px;
     align-items: center;
 }
 
+#content-profit{
+    color: white;
+}
